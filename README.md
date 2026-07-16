@@ -1,3 +1,3 @@
-# HeartFailure_Prediction
+# Heart Failure Risk Prediction
 
-Live Link : https://heartfailure-prediction.onrender.com/
+Live Link : https://heart-failure-risk-prediction.onrender.com
